@@ -18,7 +18,7 @@ I'm a Motion Designer specializing in creating dynamic and engaging visual conte
 
 
 - **[Anchor Locker](https://github.com/evefalcao/EF_Anchor-Locker)**
-- **[Scriptlets](https://github.com/evefalcao/EF_After-Effects-Scriptlets)**
+- **[20+ Scriptlets](https://github.com/evefalcao/EF_After-Effects-Scriptlets)**
 - **[Manipulate Anchor Point](https://github.com/evefalcao/EF_Manipulate-Anchor-Point)**
 
 💼 **Available for Freelance**  
