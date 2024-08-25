@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello! I'm Eveline Falcão
 
 <!--
 **evefalcao/evefalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Motion Designer specializing in creating dynamic and engaging visual content. With a strong interest in interactivity, and a focus on making the day-to-day work of motion designers more efficient, I am currently involved in these projects:
+
+
+- **[Anchor Locker](https://github.com/evefalcao/EF_Anchor-Locker)**
+- **[Scriptlets](https://github.com/evefalcao/EF_After-Effects-Scriptlets)**
+- **[Manipulate Anchor Point](https://github.com/evefalcao/EF_Manipulate-Anchor-Point)**
+
+💼 **Available for Freelance**  
+I'm always open to new opportunities and collaborations. Feel free to reach out if you're looking for a motion designer who brings creativity, technical skill, and a strong understanding of both design and animation.
+
+🌐 **Connect with Me**  
+- **[Website](https://evelinefalcao.com/)**
+- **[LinkedIn](https://www.linkedin.com/in/evelinefalcao/)**
+
+☕ **Support My Work**  
+If you enjoy the tools and resources I create, consider supporting me on [Ko-Fi](https://ko-fi.com/your_kofi_evefalcao) or sponsoring me here on GitHub. Every contribution helps me continue developing content that empowers other designers.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M212BC7C)
+
+Thanks for stopping by, and let's create something amazing together!
