@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Motion Designer specializing in creating dynamic and engaging visual content. With a strong interest in interactivity, and a focus on making the day-to-day work of motion designers more efficient, I am currently involved in these projects:
+I'm a Motion Designer specializing in creating dynamic and engaging visual content. With a strong interest in interactivity, and a focus on making the day-to-day work of motion designers more efficient, I am currently involved in these After Effects projects:
 
-
-- **[Anchor Locker](https://github.com/evefalcao/EF_Anchor-Locker)**
-- **[20+ Scriptlets](https://github.com/evefalcao/EF_After-Effects-Scriptlets)**
-- **[Manipulate Anchor Point](https://github.com/evefalcao/EF_Manipulate-Anchor-Point)**
+- **[20+ Scriptlets](https://github.com/evefalcao/EF_After-Effects-Scriptlets)**: 20+ tools that perform multiple repetitive tasks
+- **[Anchor Locker](https://github.com/evefalcao/EF_Anchor-Locker)**: Lock layers' Anchor Point anywhere
+- **[Manipulate Anchor Point](https://github.com/evefalcao/EF_Manipulate-Anchor-Point)**: Move layers' Anchor Point around
 
 💼 **Available for Freelance**  
 I'm always open to new opportunities and collaborations. Feel free to reach out if you're looking for a motion designer who brings creativity, technical skill, and a strong understanding of both design and animation.
@@ -27,6 +26,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 🌐 **Connect with Me**  
 - **[Website](https://evelinefalcao.com/)**
 - **[LinkedIn](https://www.linkedin.com/in/evelinefalcao/)**
+- **Email: hello@evelinefalcao.com**
 
 ☕ **Support My Work**  
 If you enjoy the tools and resources I create, consider supporting me on [Ko-Fi](https://ko-fi.com/your_kofi_evefalcao) or sponsoring me here on GitHub. Every contribution helps me continue developing content that empowers other designers.
