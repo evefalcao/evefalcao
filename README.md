@@ -19,7 +19,7 @@ I'm a Motion Designer specializing in creating dynamic and engaging visual conte
 - **[20+ Scriptlets](https://github.com/evefalcao/EF_After-Effects-Scriptlets)**: 20+ tools that perform multiple repetitive tasks
 - **[Anchor Locker](https://github.com/evefalcao/EF_Anchor-Locker)**: Lock layers' Anchor Point anywhere
 - **[Manipulate Anchor Point](https://github.com/evefalcao/EF_Manipulate-Anchor-Point)**: Move layers' Anchor Point around
-- **[Export Expressions](https://github.com/evefalcao/EF_Export-Expressions)**: Batch export all the expressions in your project file.
+- **[Export Expressions](https://github.com/evefalcao/EF_Export-Expressions)**: Batch export the expressions in your project file
 
 💼 **Available for Freelance**  
 I'm always open to new opportunities and collaborations. Feel free to reach out if you're looking for a motion designer who brings creativity, technical skill, and a strong understanding of both design and animation.
