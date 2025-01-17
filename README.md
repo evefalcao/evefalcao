@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a Motion Designer specializing in creating dynamic and engaging visual content. With a strong interest in interactivity, and a focus on making the day-to-day work of motion designers more efficient, I am currently involved in these After Effects projects:
 
-- **[20+ Scriptlets](https://github.com/evefalcao/EF_After-Effects-Scriptlets)**: 20+ tools that perform multiple repetitive tasks
+- **[30+ Scriptlets](https://github.com/evefalcao/EF_After-Effects-Scriptlets)**: 30+ tools that perform multiple repetitive tasks
 - **[Export Expressions](https://github.com/evefalcao/EF_Export-Expressions)**: Batch export the expressions in your project file
 - **[Anchor Locker](https://github.com/evefalcao/EF_Anchor-Locker)**: Lock layers' Anchor Point anywhere
 - **[Manipulate Anchor Point](https://github.com/evefalcao/EF_Manipulate-Anchor-Point)**: Move layers' Anchor Point around
